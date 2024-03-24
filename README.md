@@ -1,18 +1,12 @@
-## Getting Started
+## Multithread Programmming
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Pemrograman multithread merupakan konsep penting dalam networking menggunakan Java, misalkan untuk melakukan beberapa tugas yang berbeda dalam satu waktu pada jaringan client-server. Repositori ini berisi implementasi pemrograman single-thread, pemrograman miltiprocess, dan pemrograman multi-thread, serta sinkronisasi pada multithread dan komunikasi antar thread.
 
 ## Folder Structure
 
 The workspace contains two folders by default, where:
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+- src: the folder to maintain sources
+- lib: the folder to maintain dependencies
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+Meanwhile, the compiled output files will be generated in the bin folder by default.
